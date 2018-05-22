@@ -18,6 +18,16 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:xsi="http://www.w3.org/2001/
 					]\
 				);\
 			});\
+		</script><script xmlns:json="http://json.org/" type="text/javascript">\
+			$(document).ready(function(){\
+				rabbit.interaction.manager.registerInteraction(\'__containerId__-layer760993550-combobox999962445\', \'interaction955998668\', {"id":"action287366680","type":"stringValueChanged","value":"SPROG-Tutor"},  \
+					[\
+						{"delay":"0","id":"reaction948604300","layer":"layer760993550","type":"toggleLayer","visibility":"hide"}\
+								,\
+							{"delay":"0","id":"reaction859559388","layer":"layer888916059","type":"toggleLayer","visibility":"show"}\
+					]\
+				);\
+			});\
 		</script></div>\
          <div id="__containerId__-layer760993550-button477859857" style="position: absolute; left: 250px; top: 70px; width: 37px; height: 30px" data-interactive-element-type="default.button" class="button pidoco-clickable-element stencil mobile-interaction-potential-trigger " data-stencil-id="button477859857" data-review-reference-id="button477859857">\
             <div class="stencil-wrapper" style="width: 37px; height: 30px">\
@@ -27,7 +37,9 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:xsi="http://www.w3.org/2001/
 			$(document).ready(function(){\
 				rabbit.interaction.manager.registerInteraction(\'__containerId__-layer760993550-button477859857\', \'interaction477709008\', {"button":"left","id":"action964499210","numberOfFinger":"1","type":"click"},  \
 					[\
-						{"delay":"0","id":"reaction476356550","layer":"layer178695262","type":"toggleLayer","visibility":"show"}\
+						{"delay":"0","id":"reaction476356550","layer":"layer842082268","type":"toggleLayer","visibility":"show"}\
+								,\
+							{"delay":"0","id":"reaction272716288","layer":"layer760993550","type":"toggleLayer","visibility":"hide"}\
 					]\
 				);\
 			});\

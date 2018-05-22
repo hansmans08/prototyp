@@ -44,20 +44,12 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:xsi="http://www.w3.org/2001/
 				);\
 			});\
 		</script></div>\
-         <div id="__containerId__-layer135491653-15306455" style="position: absolute; left: 25px; top: 70px; width: 150px; height: 30px" data-interactive-element-type="default.combobox" class="combobox stencil mobile-interaction-potential-trigger " data-stencil-id="15306455" data-review-reference-id="15306455">\
-            <div class="stencil-wrapper" style="width: 150px; height: 30px">\
-               <div title=""><select id="__containerId__-layer135491653-15306455select" style="width:150px;height:30px;" title="">\
+         <div id="__containerId__-layer135491653-15306455" style="position: absolute; left: 25px; top: 70px; width: 305px; height: 30px" data-interactive-element-type="default.combobox" class="combobox stencil mobile-interaction-potential-trigger " data-stencil-id="15306455" data-review-reference-id="15306455">\
+            <div class="stencil-wrapper" style="width: 305px; height: 30px">\
+               <div title=""><select id="__containerId__-layer135491653-15306455select" style="width:305px;height:30px;" title="">\
                      <option title="">Job</option>\
                      <option title="">OOP-Tutor</option>\
                      <option title="">SPROG-Tutor</option></select></div>\
-            </div>\
-         </div>\
-         <div id="__containerId__-layer135491653-1712193658" style="position: absolute; left: 190px; top: 70px; width: 150px; height: 30px" data-interactive-element-type="default.combobox" class="combobox stencil mobile-interaction-potential-trigger " data-stencil-id="1712193658" data-review-reference-id="1712193658">\
-            <div class="stencil-wrapper" style="width: 150px; height: 30px">\
-               <div title=""><select id="__containerId__-layer135491653-1712193658select" style="width:150px;height:30px;" title="">\
-                     <option title="">Projekt</option>\
-                     <option title="">Laborbetreuung</option>\
-                     <option title="">Korrektur</option></select></div>\
             </div>\
          </div>\
          <div id="__containerId__-layer135491653-1850222098" style="position: absolute; left: 25px; top: 30px; width: 107px; height: 28px" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="1850222098" data-review-reference-id="1850222098">\
@@ -115,6 +107,9 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:xsi="http://www.w3.org/2001/
 </symbol><symbol xmlns:a0="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" id="icon-glyph-e320" preserveAspectRatio="xMidYMid meet">\
 <title>glyph-e320</title>\
 <path class="path1" d="M81.719 894.816v-529.492q0-6.99 4.846-11.756t11.756-4.846h546.094v546.093q0 6.99-4.846 11.756t-11.756 4.846h-529.492q-6.99 0-11.756-4.846t-4.846-11.756zM214.133 299.078v-66.167q0-6.592 5.481-11.597t12.39-4.926h528.221q6.99 0 11.756 4.765t4.765 11.756v529.571q0 6.911-4.765 11.756t-11.756 4.765h-66.167q-6.99 0-11.756-4.765t-4.846-11.756v-446.803h-445.454q-6.911 0-12.39-5.004t-5.481-11.597zM346.544 166.747v-66.246q0-6.592 5.4-11.597t12.471-4.926h528.221q6.911 0 11.756 4.765t4.765 11.756v529.571q0 6.99-4.765 11.756t-11.756 4.765h-66.246q-6.911 0-11.756-4.765t-4.765-11.756v-446.803h-445.454q-6.99 0-12.472-5.004t-5.4-11.517z"/>\
+</symbol><symbol xmlns:a0="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" id="icon-glyph-e145" preserveAspectRatio="xMidYMid meet">\
+<title>glyph-e145</title>\
+<path class="path1" d="M114.842 742.943v-493.509q0-13.502 9.77-23.273t23.353-9.77h44.005l11.597-34.792q4.607-12.868 17.315-22.161t26.372-9.295h165.457q13.583 0 26.292 9.295t17.396 22.161l11.597 34.792h308.751q13.583 0 23.353 9.77t9.77 23.273v99.289h-512.97q-22.241 0-32.487 22.875zM127.075 847.556l174.114-434.889q4.926-12.63 18.348-21.685t27.008-9.134h728.070q13.583 0 19.699 9.134t1.191 21.685l-174.114 434.889q-4.926 12.55-18.348 21.606t-27.008 9.135h-728.070q-13.583 0-19.699-9.135t-1.192-21.606z"/>\
 </symbol><symbol xmlns:a0="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024" id="icon-glyph-e058" preserveAspectRatio="xMidYMid meet">\
 <title>glyph-e058</title>\
 <path class="path1" d="M114.523 480.182q0-80.782 31.455-154.257t84.675-126.773 126.773-84.755 154.257-31.455 154.257 31.612 126.693 84.913 84.755 126.773 31.455 154.257q0 8.261-0.477 16.045t-1.192 13.027-2.304 17.078-2.621 20.652h-100.641l3.337-20.652t2.621-17.396 1.351-12.709 0.635-16.045q0-60.607-23.669-115.891t-63.545-95.318-95-63.705-115.651-23.669-115.652 23.669-95 63.545-63.545 95-23.669 115.652 23.512 115.732 63.385 94.919 95.158 63.545 116.13 23.669q48.293-0.318 84.913-11.597t74.984-35.745l-50.36-70.137q-3.972-5.639-1.987-9.612t8.975-3.652h226.381q6.592 0 10.088 4.687t1.509 11.201l-73.156 213.196q-1.987 6.592-6.275 7.466t-8.34-4.846l-48.93-67.834-1.668 1.351q-48.293 31.377-106.279 48.134t-109.853 16.681q-85.072 0-159.499-31.455t-126.455-84.832-81.735-126.455-29.787-154.097zM346.544 497.023v-31.773q0-6.911 4.765-12.075t11.756-5.164h91.345q9.612-13.9 25.022-23.669t32.567-9.691q6.275 0 18.904 3.257l106.837-107.232q5.004-4.607 11.915-4.607t11.597 4.607l22.875 23.195q4.926 4.607 4.926 11.597t-4.926 11.915l-107.948 108.187q1.986 9.93 1.986 15.886 0 27.482-19.301 46.864t-46.864 19.382q-17.237 0-32.567-9.77t-25.022-23.669h-91.345q-6.911 0-11.756-5.163t-4.765-12.075z"/>\
@@ -125,7 +120,7 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:xsi="http://www.w3.org/2001/
                </div>\
             </div>\
          </div>\
-         <div id="__containerId__-layer135491653-icon465466595" style="position: absolute; left: 300px; top: 245px; width: 24px; height: 24px" data-interactive-element-type="fonticon.icon" class="icon stencil mobile-interaction-potential-trigger " data-stencil-id="icon465466595" data-review-reference-id="icon465466595">\
+         <div id="__containerId__-layer135491653-icon465466595" style="position: absolute; left: 300px; top: 245px; width: 24px; height: 24px" data-interactive-element-type="fonticon.icon" class="icon pidoco-clickable-element stencil mobile-interaction-potential-trigger " data-stencil-id="icon465466595" data-review-reference-id="icon465466595">\
             <div class="stencil-wrapper" style="width: 24px; height: 24px">\
                <div xmlns:pidoco="http://www.pidoco.com/util" style="width:24px;height:24px;" title="">\
                   <svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" class="fill-black">\
@@ -135,7 +130,17 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:xsi="http://www.w3.org/2001/
                   </svg>\
                </div>\
             </div>\
-         </div>\
+            <div class="interactive-stencil-highlighter" style="width: 24px; height: 24px"></div><script xmlns:json="http://json.org/" type="text/javascript">\
+			$(document).ready(function(){\
+				rabbit.interaction.manager.registerInteraction(\'__containerId__-layer135491653-icon465466595\', \'interaction81876562\', {"button":"left","id":"action21473874","numberOfFinger":"1","type":"click"},  \
+					[\
+						{"delay":"0","id":"reaction802972453","layer":"layer456104846","type":"toggleLayer","visibility":"show"}\
+								,\
+							{"delay":"0","id":"reaction927467165","layer":"layer135491653","type":"toggleLayer","visibility":"hide"}\
+					]\
+				);\
+			});\
+		</script></div>\
          <div id="__containerId__-layer135491653-993977417" style="position: absolute; left: 300px; top: 290px; width: 24px; height: 24px" data-interactive-element-type="fonticon.icon" class="icon stencil mobile-interaction-potential-trigger " data-stencil-id="993977417" data-review-reference-id="993977417">\
             <div class="stencil-wrapper" style="width: 24px; height: 24px">\
                <div xmlns:pidoco="http://www.pidoco.com/util" style="width:24px;height:24px;" title="">\

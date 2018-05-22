@@ -1,20 +1,20 @@
 rabbit.data.layerStore.addLayerFromHtml('<div xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:sketchedHelper="java:it.rapidrabb.editor.stencils.helpers.SketchedHelper" xmlns:fn="http://www.w3.org/2005/xpath-functions">\
    <div id="result">\
       <div xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns="http://www.w3.org/1999/xhtml" id="__containerId__layer666758206" class="layer" name="__containerId__layer" data-layer-id="layer666758206" data-layer-type="layer" style="position:absolute;left:0px;top:0px;">\
-         <div id="__containerId__-layer666758206-combobox315913027" style="position: absolute; left: 25px; top: 70px; width: 150px; height: 30px" data-interactive-element-type="default.combobox" class="combobox pidoco-clickable-element stencil mobile-interaction-potential-trigger " data-stencil-id="combobox315913027" data-review-reference-id="combobox315913027">\
-            <div class="stencil-wrapper" style="width: 150px; height: 30px">\
-               <div title=""><select id="__containerId__-layer666758206-combobox315913027select" style="width:150px;height:30px;" title="">\
+         <div id="__containerId__-layer666758206-combobox315913027" style="position: absolute; left: 25px; top: 70px; width: 305px; height: 30px" data-interactive-element-type="default.combobox" class="combobox pidoco-clickable-element stencil mobile-interaction-potential-trigger " data-stencil-id="combobox315913027" data-review-reference-id="combobox315913027">\
+            <div class="stencil-wrapper" style="width: 305px; height: 30px">\
+               <div title=""><select id="__containerId__-layer666758206-combobox315913027select" style="width:305px;height:30px;" title="">\
                      <option title="">Job</option>\
                      <option title="">OOP-Tutor</option>\
                      <option title="">SPROG-Tutor</option></select></div>\
             </div>\
-            <div class="interactive-stencil-highlighter" style="width: 150px; height: 30px"></div><script xmlns:json="http://json.org/" type="text/javascript">\
+            <div class="interactive-stencil-highlighter" style="width: 305px; height: 30px"></div><script xmlns:json="http://json.org/" type="text/javascript">\
 			$(document).ready(function(){\
 				rabbit.interaction.manager.registerInteraction(\'__containerId__-layer666758206-combobox315913027\', \'interaction244090119\', {"button":"left","id":"action140404461","numberOfFinger":"1","type":"click"},  \
 					[\
 						{"delay":"0","id":"reaction905865547","layer":"layer666758206","type":"toggleLayer","visibility":"hide"}\
 								,\
-							{"delay":"0","id":"reaction352512876","layer":"layer332006473","type":"toggleLayer","visibility":"show"}\
+							{"delay":"0","id":"reaction352512876","layer":"layer135491653","type":"toggleLayer","visibility":"show"}\
 					]\
 				);\
 			});\

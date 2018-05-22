@@ -136,7 +136,15 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:xsi="http://www.w3.org/2001/
       					"layer354584842":false,\
       					"layer590453124":false,\
       					"layer168774060":false,\
-      					"layer670338114":false\
+      					"layer670338114":false,\
+      					"layer178695262":false,\
+      					"layer842082268":false,\
+      					"layer316332799":false,\
+      					"layer973777454":false,\
+      					"layer540477429":false,\
+      					"layer939955945":false,\
+      					"layer135491653":false,\
+      					"layer456104846":false\
       			},\
       			"image":"",\
       			"width":360,\

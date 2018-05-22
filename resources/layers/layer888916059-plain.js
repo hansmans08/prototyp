@@ -27,7 +27,9 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:xsi="http://www.w3.org/2001/
 			$(document).ready(function(){\
 				rabbit.interaction.manager.registerInteraction(\'__containerId__-layer888916059-834060755\', \'797936077\', {"button":"left","id":"1536353619","numberOfFinger":"1","type":"click"},  \
 					[\
-						{"delay":"0","id":"1104497029","layer":"layer178695262","type":"toggleLayer","visibility":"show"}\
+						{"delay":"0","id":"1104497029","layer":"layer842082268","type":"toggleLayer","visibility":"show"}\
+								,\
+							{"delay":"0","id":"reaction311068527","layer":"layer888916059","type":"toggleLayer","visibility":"hide"}\
 					]\
 				);\
 			});\
@@ -80,6 +82,8 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:xsi="http://www.w3.org/2001/
 				rabbit.interaction.manager.registerInteraction(\'__containerId__-layer888916059-958202762\', \'2028825599\', {"button":"left","id":"954880372","numberOfFinger":"1","type":"click"},  \
 					[\
 						{"delay":"0","id":"155587158","layer":"layer178695262","type":"toggleLayer","visibility":"show"}\
+								,\
+							{"delay":"0","id":"reaction794949273","layer":"layer888916059","type":"toggleLayer","visibility":"hide"}\
 					]\
 				);\
 			});\

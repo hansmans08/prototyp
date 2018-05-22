@@ -5,22 +5,22 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:xsi="http://www.w3.org/2001/
             <div class="stencil-wrapper" style="width: 325px; height: 340px">\
                <div title="">\
                   <svg:svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" overflow="hidden" style="height: 340px;width:325px;" width="325" height="340">\
-                     <svg:g width="325" height="340"><svg:path class=" svg_unselected_element" d="M 2.00, 2.00 Q 12.03, 2.35, 22.06, 2.07 Q 32.09, 1.12, 42.12, 1.21 Q 52.16, 0.76,\
-                        62.19, 0.40 Q 72.22, 1.07, 82.25, 0.91 Q 92.28, 0.92, 102.31, 0.84 Q 112.34, 0.60, 122.38, 0.48 Q 132.41, 0.92, 142.44, 1.59\
-                        Q 152.47, 1.31, 162.50, 1.50 Q 172.53, 0.66, 182.56, 0.61 Q 192.59, 0.56, 202.62, 0.50 Q 212.66, 0.70, 222.69, 0.51 Q 232.72,\
-                        0.57, 242.75, 0.45 Q 252.78, 1.09, 262.81, 0.94 Q 272.84, 2.11, 282.88, 2.47 Q 292.91, 2.05, 302.94, 1.81 Q 312.97, 2.04,\
-                        322.86, 2.14 Q 323.75, 12.25, 323.98, 22.86 Q 324.14, 33.42, 324.00, 43.97 Q 323.90, 54.49, 324.12, 64.99 Q 324.28, 75.49,\
-                        324.32, 86.00 Q 324.17, 96.50, 323.94, 107.00 Q 324.83, 117.50, 324.24, 128.00 Q 323.68, 138.50, 323.67, 149.00 Q 324.05,\
-                        159.50, 323.66, 170.00 Q 323.65, 180.50, 323.19, 191.00 Q 323.92, 201.50, 324.44, 212.00 Q 324.37, 222.50, 322.85, 233.00\
-                        Q 322.13, 243.50, 321.96, 254.00 Q 322.82, 264.50, 322.57, 275.00 Q 322.80, 285.50, 322.99, 296.00 Q 323.11, 306.50, 322.89,\
-                        317.00 Q 322.77, 327.50, 322.58, 337.58 Q 312.94, 337.91, 303.04, 338.71 Q 292.99, 339.18, 282.94, 339.91 Q 272.87, 339.50,\
-                        262.83, 339.94 Q 252.79, 339.23, 242.75, 339.49 Q 232.72, 338.96, 222.69, 339.30 Q 212.66, 339.69, 202.63, 339.72 Q 192.59,\
-                        339.90, 182.56, 339.80 Q 172.53, 339.98, 162.50, 339.88 Q 152.47, 339.98, 142.44, 339.37 Q 132.41, 338.60, 122.38, 339.31\
-                        Q 112.34, 340.26, 102.31, 340.67 Q 92.28, 339.69, 82.25, 339.44 Q 72.22, 338.80, 62.19, 338.79 Q 52.16, 338.59, 42.12, 338.73\
-                        Q 32.09, 339.12, 22.06, 338.73 Q 12.03, 338.28, 1.89, 338.11 Q 1.35, 327.72, 1.41, 317.08 Q 0.68, 306.59, 1.14, 296.03 Q 0.46,\
-                        285.52, 0.14, 275.01 Q 0.05, 264.51, 0.57, 254.00 Q 0.86, 243.50, 0.44, 233.00 Q 1.50, 222.50, 1.32, 212.00 Q 2.01, 201.50,\
-                        2.67, 191.00 Q 3.21, 180.50, 2.93, 170.00 Q 2.40, 159.50, 2.08, 149.00 Q 1.83, 138.50, 2.40, 128.00 Q 1.30, 117.50, 1.62,\
-                        107.00 Q 1.68, 96.50, 1.44, 86.00 Q 1.18, 75.50, 0.91, 65.00 Q 1.01, 54.50, 0.80, 44.00 Q 1.53, 33.50, 1.15, 23.00 Q 2.00,\
+                     <svg:g width="325" height="340"><svg:path class=" svg_unselected_element" d="M 2.00, 2.00 Q 12.03, 0.90, 22.06, 1.21 Q 32.09, 0.97, 42.12, 0.64 Q 52.16, 0.05,\
+                        62.19, 0.05 Q 72.22, 1.02, 82.25, -0.18 Q 92.28, 0.93, 102.31, -0.18 Q 112.34, 0.13, 122.38, -0.09 Q 132.41, 1.09, 142.44,\
+                        1.74 Q 152.47, 0.37, 162.50, -0.47 Q 172.53, 0.58, 182.56, 1.33 Q 192.59, 0.76, 202.62, -0.18 Q 212.66, -0.01, 222.69, 0.65\
+                        Q 232.72, 0.03, 242.75, 0.25 Q 252.78, 1.14, 262.81, 1.81 Q 272.84, 1.82, 282.88, 2.55 Q 292.91, 1.89, 302.94, 0.66 Q 312.97,\
+                        -0.25, 324.09, 0.91 Q 324.27, 12.08, 323.64, 22.91 Q 322.90, 33.51, 322.82, 44.01 Q 323.11, 54.50, 322.99, 65.00 Q 323.71,\
+                        75.50, 324.50, 86.00 Q 324.85, 96.50, 323.85, 107.00 Q 323.75, 117.50, 323.44, 128.00 Q 323.89, 138.50, 324.21, 149.00 Q 324.15,\
+                        159.50, 324.37, 170.00 Q 324.50, 180.50, 324.60, 191.00 Q 324.83, 201.50, 324.69, 212.00 Q 325.08, 222.50, 325.17, 233.00\
+                        Q 324.78, 243.50, 323.54, 254.00 Q 323.83, 264.50, 323.55, 275.00 Q 323.59, 285.50, 323.86, 296.00 Q 324.63, 306.50, 324.81,\
+                        317.00 Q 325.01, 327.50, 323.76, 338.76 Q 313.24, 338.80, 303.00, 338.44 Q 292.95, 338.61, 282.89, 338.59 Q 272.86, 339.00,\
+                        262.82, 339.23 Q 252.79, 339.67, 242.75, 339.62 Q 232.72, 339.70, 222.69, 339.40 Q 212.66, 338.24, 202.63, 338.09 Q 192.59,\
+                        338.65, 182.56, 339.35 Q 172.53, 339.47, 162.50, 339.63 Q 152.47, 339.42, 142.44, 339.37 Q 132.41, 339.36, 122.38, 338.91\
+                        Q 112.34, 339.46, 102.31, 339.38 Q 92.28, 339.16, 82.25, 338.74 Q 72.22, 338.58, 62.19, 338.83 Q 52.16, 338.13, 42.12, 338.39\
+                        Q 32.09, 337.93, 22.06, 338.49 Q 12.03, 338.88, 1.50, 338.50 Q 1.32, 327.73, 0.92, 317.15 Q 1.24, 306.55, 1.07, 296.03 Q 0.99,\
+                        285.52, 0.79, 275.01 Q 0.69, 264.51, 1.38, 254.00 Q 1.03, 243.50, 0.66, 233.00 Q 0.65, 222.50, 0.46, 212.00 Q 1.49, 201.50,\
+                        0.87, 191.00 Q 1.10, 180.50, 1.10, 170.00 Q 0.51, 159.50, 0.48, 149.00 Q 0.93, 138.50, 1.08, 128.00 Q 0.26, 117.50, 0.87,\
+                        107.00 Q 0.31, 96.50, 1.05, 86.00 Q 0.30, 75.50, 0.14, 65.00 Q 0.21, 54.50, 0.31, 44.00 Q 0.74, 33.50, 0.46, 23.00 Q 2.00,\
                         12.50, 2.00, 2.00" style=" fill:white;"/>\
                      </svg:g>\
                   </svg:svg>\
@@ -36,11 +36,11 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:xsi="http://www.w3.org/2001/
             <div class="stencil-wrapper" style="width: 80px; height: 30px">\
                <div xmlns:helper="java:it.rapidrabb.editor.stencils.helpers.StencilHelper" style="position:absolute; left:0; top:-2px;" title="">\
                   <svg:svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" overflow="hidden" style="position: absolute;top: 2px;height: 30px;width:80px;" width="80" height="30">\
-                     <svg:g width="80" height="30"><svg:path class=" svg_unselected_element" d="M 2.00, 2.00 Q 14.17, -0.23, 26.33, 0.37 Q 38.50, 0.78, 50.67, 0.85 Q 62.83,\
-                        0.77, 75.71, 1.29 Q 76.06, 13.15, 75.61, 25.61 Q 62.96, 25.46, 50.75, 25.71 Q 38.57, 26.36, 26.37, 26.71 Q 14.19, 26.82, 1.08,\
-                        25.91 Q 2.00, 13.50, 2.00, 2.00" style=" fill:#d9d9d9;"/><svg:path class=" svg_unselected_element" d="M 76.00, 4.00 Q 76.00, 16.00, 76.00, 28.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 77.00, 5.00 Q 77.00, 17.00, 77.00, 29.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 78.00, 6.00 Q 78.00, 18.00, 78.00, 30.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 4.00, 26.00 Q 16.33, 24.92, 28.67, 25.41 Q 41.00, 25.57, 53.33, 25.48 Q 65.67,\
-                        26.00, 78.00, 26.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 5.00, 27.00 Q 17.33, 25.49, 29.67, 25.32 Q 42.00, 25.60, 54.33, 25.55 Q 66.67,\
-                        27.00, 79.00, 27.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 6.00, 28.00 Q 18.33, 28.52, 30.67, 28.14 Q 43.00, 28.39, 55.33, 27.81 Q 67.67,\
+                     <svg:g width="80" height="30"><svg:path class=" svg_unselected_element" d="M 2.00, 2.00 Q 14.17, -0.63, 26.33, -0.34 Q 38.50, 0.15, 50.67, 0.33 Q 62.83,\
+                        0.52, 75.26, 1.74 Q 74.67, 13.61, 75.19, 25.19 Q 63.08, 25.89, 50.78, 26.04 Q 38.54, 25.70, 26.34, 25.28 Q 14.17, 25.56, 2.59,\
+                        24.41 Q 2.00, 13.50, 2.00, 2.00" style=" fill:#d9d9d9;"/><svg:path class=" svg_unselected_element" d="M 76.00, 4.00 Q 76.00, 16.00, 76.00, 28.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 77.00, 5.00 Q 77.00, 17.00, 77.00, 29.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 78.00, 6.00 Q 78.00, 18.00, 78.00, 30.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 4.00, 26.00 Q 16.33, 25.65, 28.67, 25.55 Q 41.00, 25.46, 53.33, 25.27 Q 65.67,\
+                        26.00, 78.00, 26.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 5.00, 27.00 Q 17.33, 27.03, 29.67, 27.06 Q 42.00, 26.96, 54.33, 26.73 Q 66.67,\
+                        27.00, 79.00, 27.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 6.00, 28.00 Q 18.33, 27.22, 30.67, 27.19 Q 43.00, 27.06, 55.33, 26.96 Q 67.67,\
                         28.00, 80.00, 28.00" style=" fill:none;"/>\
                      </svg:g>\
                   </svg:svg><button id="__containerId__-layer316332799-button246600571button" type="button" onmouseover="rabbit.facade.raiseEvent(rabbit.events.buttonMouseOver, \'__containerId__-layer316332799-button246600571button\');" onmouseout="rabbit.facade.raiseEvent(rabbit.events.buttonMouseOut, &#34;__containerId__-layer316332799-button246600571button&#34;);" title="" class="ClickableSketch" style="position: absolute; width:76px;height:26px;font-size:1em;cursor:pointer;color:black" xml:space="preserve">\
@@ -60,12 +60,12 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:xsi="http://www.w3.org/2001/
             <div class="stencil-wrapper" style="width: 88px; height: 30px">\
                <div xmlns:helper="java:it.rapidrabb.editor.stencils.helpers.StencilHelper" style="position:absolute; left:0; top:-2px;" title="">\
                   <svg:svg xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:svg="http://www.w3.org/2000/svg" overflow="hidden" style="position: absolute;top: 2px;height: 30px;width:88px;" width="88" height="30">\
-                     <svg:g width="88" height="30"><svg:path class=" svg_unselected_element" d="M 2.00, 2.00 Q 12.12, 0.77, 22.25, 0.49 Q 32.38, 0.29, 42.50, -0.03 Q 52.62,\
-                        -0.28, 62.75, 0.09 Q 72.88, 0.11, 83.99, 1.01 Q 84.63, 12.96, 83.87, 25.87 Q 73.26, 26.42, 62.88, 26.14 Q 52.69, 26.26, 42.54,\
-                        26.46 Q 32.39, 26.66, 22.26, 26.58 Q 12.13, 26.20, 1.23, 25.77 Q 2.00, 13.50, 2.00, 2.00" style=" fill:#d9d9d9;"/><svg:path class=" svg_unselected_element" d="M 84.00, 4.00 Q 84.00, 16.00, 84.00, 28.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 85.00, 5.00 Q 85.00, 17.00, 85.00, 29.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 86.00, 6.00 Q 86.00, 18.00, 86.00, 30.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 4.00, 26.00 Q 14.25, 26.32, 24.50, 25.76 Q 34.75, 24.79, 45.00, 25.70 Q 55.25,\
-                        26.52, 65.50, 25.55 Q 75.75, 26.00, 86.00, 26.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 5.00, 27.00 Q 15.25, 27.00, 25.50, 26.70 Q 35.75, 26.38, 46.00, 26.36 Q 56.25,\
-                        26.37, 66.50, 25.52 Q 76.75, 27.00, 87.00, 27.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 6.00, 28.00 Q 16.25, 25.75, 26.50, 25.71 Q 36.75, 26.05, 47.00, 25.97 Q 57.25,\
-                        26.33, 67.50, 26.40 Q 77.75, 28.00, 88.00, 28.00" style=" fill:none;"/>\
+                     <svg:g width="88" height="30"><svg:path class=" svg_unselected_element" d="M 2.00, 2.00 Q 12.12, 0.65, 22.25, 1.69 Q 32.38, 2.23, 42.50, 2.59 Q 52.62, 1.53,\
+                        62.75, 1.72 Q 72.88, 2.11, 82.97, 2.03 Q 83.40, 13.37, 83.05, 25.05 Q 72.75, 24.53, 62.73, 24.79 Q 52.60, 24.51, 42.50, 24.83\
+                        Q 32.37, 24.71, 22.25, 25.76 Q 12.13, 25.58, 1.44, 25.56 Q 2.00, 13.50, 2.00, 2.00" style=" fill:#d9d9d9;"/><svg:path class=" svg_unselected_element" d="M 84.00, 4.00 Q 84.00, 16.00, 84.00, 28.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 85.00, 5.00 Q 85.00, 17.00, 85.00, 29.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 86.00, 6.00 Q 86.00, 18.00, 86.00, 30.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 4.00, 26.00 Q 14.25, 25.05, 24.50, 25.44 Q 34.75, 25.17, 45.00, 25.53 Q 55.25,\
+                        25.44, 65.50, 25.51 Q 75.75, 26.00, 86.00, 26.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 5.00, 27.00 Q 15.25, 24.38, 25.50, 24.38 Q 35.75, 25.21, 46.00, 25.27 Q 56.25,\
+                        25.03, 66.50, 25.74 Q 76.75, 27.00, 87.00, 27.00" style=" fill:none;"/><svg:path class=" svg_unselected_element" d="M 6.00, 28.00 Q 16.25, 28.39, 26.50, 27.81 Q 36.75, 27.88, 47.00, 26.76 Q 57.25,\
+                        27.13, 67.50, 27.20 Q 77.75, 28.00, 88.00, 28.00" style=" fill:none;"/>\
                      </svg:g>\
                   </svg:svg><button id="__containerId__-layer316332799-button460285670button" type="button" onmouseover="rabbit.facade.raiseEvent(rabbit.events.buttonMouseOver, \'__containerId__-layer316332799-button460285670button\');" onmouseout="rabbit.facade.raiseEvent(rabbit.events.buttonMouseOut, &#34;__containerId__-layer316332799-button460285670button&#34;);" title="" class="ClickableSketch" style="position: absolute; width:84px;height:26px;font-size:1em;cursor:pointer;color:black" xml:space="preserve">\
                      				Abbrechen<br />  \

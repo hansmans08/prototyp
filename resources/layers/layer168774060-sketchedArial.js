@@ -31,14 +31,14 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:xsi="http://www.w3.org/2001/
 				);\
 			});\
 		</script></div>\
-         <div id="__containerId__-layer168774060-text960358066" style="position: absolute; left: 65px; top: 210px; width: 78px; height: 17px" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="text960358066" data-review-reference-id="text960358066">\
-            <div class="stencil-wrapper" style="width: 78px; height: 17px">\
-               <div title="" style="width:83px"><span class="default-text2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2"><p style="font-size: 14px;">Start: 12:15</p></span></span></div>\
+         <div id="__containerId__-layer168774060-text960358066" style="position: absolute; left: 65px; top: 210px; width: 32px; height: 17px" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="text960358066" data-review-reference-id="text960358066">\
+            <div class="stencil-wrapper" style="width: 32px; height: 17px">\
+               <div title="" style="width:37px"><span class="default-text2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2"><p style="font-size: 14px;">von:</p></span></span></div>\
             </div>\
          </div>\
-         <div id="__containerId__-layer168774060-text926272169" style="position: absolute; left: 65px; top: 245px; width: 82px; height: 17px" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="text926272169" data-review-reference-id="text926272169">\
-            <div class="stencil-wrapper" style="width: 82px; height: 17px">\
-               <div title="" style="width:87px"><span class="default-text2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2"><p style="font-size: 14px;">Ende: 13:45</p></span></span></div>\
+         <div id="__containerId__-layer168774060-text926272169" style="position: absolute; left: 65px; top: 245px; width: 28px; height: 17px" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="text926272169" data-review-reference-id="text926272169">\
+            <div class="stencil-wrapper" style="width: 28px; height: 17px">\
+               <div title="" style="width:33px"><span class="default-text2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2"><p style="font-size: 14px;">bis:</p></span></span></div>\
             </div>\
          </div>\
          <div id="__containerId__-layer168774060-text73040487" style="position: absolute; left: 65px; top: 280px; width: 121px; height: 17px" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="text73040487" data-review-reference-id="text73040487">\
@@ -62,7 +62,7 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:xsi="http://www.w3.org/2001/
 			$(document).ready(function(){\
 				rabbit.interaction.manager.registerInteraction(\'__containerId__-layer168774060-328063409\', \'203610856\', {"button":"left","id":"2135705381","numberOfFinger":"1","type":"click"},  \
 					[\
-						{"delay":"0","id":"1984129829","layer":"layer178695262","type":"toggleLayer","visibility":"show"}\
+						{"delay":"0","id":"1984129829","layer":"layer973777454","type":"toggleLayer","visibility":"show"}\
 					]\
 				);\
 			});\
@@ -84,7 +84,7 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:xsi="http://www.w3.org/2001/
 			$(document).ready(function(){\
 				rabbit.interaction.manager.registerInteraction(\'__containerId__-layer168774060-1093673156\', \'1988417017\', {"button":"left","id":"739094978","numberOfFinger":"1","type":"click"},  \
 					[\
-						{"delay":"0","id":"951383311","layer":"layer178695262","type":"toggleLayer","visibility":"show"}\
+						{"delay":"0","id":"951383311","layer":"layer540477429","type":"toggleLayer","visibility":"show"}\
 					]\
 				);\
 			});\
@@ -102,6 +102,16 @@ rabbit.data.layerStore.addLayerFromHtml('<div xmlns:xsi="http://www.w3.org/2001/
          <div id="__containerId__-layer168774060-text13057112" style="position: absolute; left: 65px; top: 340px; width: 114px; height: 17px" data-interactive-element-type="default.text2" class="text2 stencil mobile-interaction-potential-trigger " data-stencil-id="text13057112" data-review-reference-id="text13057112">\
             <div class="stencil-wrapper" style="width: 114px; height: 17px">\
                <div title="" style="width:119px"><span class="default-text2-container-wrapper" title=""><span class="default-text2-container" data-child-type="default.text2"><p style="font-size: 14px;">Notiz hinzufügen:</p></span></span></div>\
+            </div>\
+         </div>\
+         <div id="__containerId__-layer168774060-textinput848269560" style="position: absolute; left: 100px; top: 205px; width: 150px; height: 30px" data-interactive-element-type="default.textinput" class="textinput stencil mobile-interaction-potential-trigger " data-stencil-id="textinput848269560" data-review-reference-id="textinput848269560">\
+            <div class="stencil-wrapper" style="width: 150px; height: 30px">\
+               <div title=""><input id="__containerId__-layer168774060-textinput848269560input" value="19.05.2018 13:00" style="width:148px;height:28px;padding: 0px;border-width:1px;" type="text" /></div>\
+            </div>\
+         </div>\
+         <div id="__containerId__-layer168774060-textinput260625879" style="position: absolute; left: 100px; top: 240px; width: 150px; height: 30px" data-interactive-element-type="default.textinput" class="textinput stencil mobile-interaction-potential-trigger " data-stencil-id="textinput260625879" data-review-reference-id="textinput260625879">\
+            <div class="stencil-wrapper" style="width: 150px; height: 30px">\
+               <div title=""><input id="__containerId__-layer168774060-textinput260625879input" value="19.05.2018 14:30" style="width:148px;height:28px;padding: 0px;border-width:1px;" type="text" /></div>\
             </div>\
          </div>\
       </div>\
